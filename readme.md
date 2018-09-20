@@ -14,12 +14,12 @@ Simple scripts that keep on posting mortality quotes on your terminal, to remind
 
 ## Usage
 
-`$ sudo bash fined.sh `
+`$ sudo bash fined.sh &`
 
 
 ## Contributing
 Pull requests are welcome. 
-
+Tested on MacOs sierra.
 Inspired by [wecroak app](https://www.wecroak.com) which I couldn't buy.
  
 ## License
